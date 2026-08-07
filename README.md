@@ -1,7 +1,6 @@
 # 🎬 Explainable Movie Recommender (CineMatch)
 
 > **Sistema Inteligente de Recomendação de Filmes com Explicabilidade (XAI)**  
-> *Curso de Bacharelado em Sistemas de Informação*
 
 ---
 
@@ -209,4 +208,4 @@ curl -X GET "http://127.0.0.1:8000/recommendations/1?k=3" -H "accept: applicatio
 ---
 
 ## 📄 Licença
-Este projeto foi desenvolvido com fins acadêmicos e educacionais para o curso de Sistemas de Informação.
+Este projeto foi desenvolvido com fins educacionais.
